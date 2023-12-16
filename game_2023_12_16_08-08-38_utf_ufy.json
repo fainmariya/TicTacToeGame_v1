@@ -1,0 +1,23 @@
+{
+    "date": "2023_12_16_08-08-38",
+    "player1_name": "utf",
+    "player2_name": "ufy",
+    "current_player": "x",
+    "game_board": [
+        [
+            "x",
+            "",
+            "0"
+        ],
+        [
+            "",
+            "x",
+            "0"
+        ],
+        [
+            "",
+            "",
+            "x"
+        ]
+    ]
+}
